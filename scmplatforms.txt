@@ -2,3 +2,5 @@ Types of SCM
 BitBucket
 GitHub
 Gitlab
+Jira
+Confluence
