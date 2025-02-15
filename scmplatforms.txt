@@ -1,4 +1,4 @@
-Types of SCM
+Types of SCM Platforms
 BitBucket
 GitHub
 Gitlab
